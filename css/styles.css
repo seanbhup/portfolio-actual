@@ -27,7 +27,8 @@ a {
 }
 a:hover,
 a:focus {
-  color: #eb3812;
+  color: #2D7DD2;
+
 }
 h1,
 h2,
@@ -469,7 +470,7 @@ body {
 
 .projects-title{
     color: #51CB20;
-    font-size: 50px;
+    font-size: 30px;
 }
 
 #contact{
@@ -480,4 +481,8 @@ body {
 .self-image{
     border-radius: 50%;
     width: 50%;
+}
+
+.page-scroll{
+    /*color:black;*/
 }
