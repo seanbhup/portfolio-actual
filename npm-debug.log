@@ -13,8 +13,8 @@
 4 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:78:16
 4 verbose stack     at tryToString (fs.js:455:3)
 4 verbose stack     at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:442:12)
-5 verbose cwd /Users/SeanBhupathi/Desktop/DigitalCrafts/11-16immersive/portfolio
-6 error Darwin 16.3.0
+5 verbose cwd /Users/SeanBhupathi/Documents/DigitalCrafts/11-16immersive/portfolio
+6 error Darwin 17.4.0
 7 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "start"
 8 error node v6.9.2
 9 error npm  v3.10.9
